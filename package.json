@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-skeleton-css": "^1.1.0",
+    "react-typescript": "^1.0.0",
+    "skeleton-react": "^1.2.0",
+    "typescript": "^3.5.2",
+    "typescript-cli": "^0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
