@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import FiltrableProductTable from "./components/FiltrableProductTable";
 
 const Mock = () => (
